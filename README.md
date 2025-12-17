@@ -1,7 +1,7 @@
 # urprogrammer.github.io
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This where I'll be sharing my achievements and personal projects you can find open source projects else where on my account.
+This where I'll be sharing my **achievements** and **personal projects**. You can find **open source projects** else where on my account.
 
 
 
